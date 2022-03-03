@@ -14,7 +14,8 @@ Companies that do - I help them use it in the most optimal way possible and buil
 to increase their and their developer organizations' productivity.
 Ones that don't and want to - I help them with their digital transformation.
 
-Once my day job is over - that's when the real fun begins. I am one of the construction workers building web 3.
+Once my day job is over - that's when the real fun begins. I am one of the construction workers
+building web 3.
 ```
 
 <p>
