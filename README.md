@@ -6,11 +6,14 @@
 $ whoami
 > artpav.eth
 
-Hi there! Name's art. I'm an SRE and Cloud Architect during the day, I build solutions, and dev teams and optimize their work (both, the team and solutions). 
+Hi there! Name's art. I'm an SRE and Cloud Architect during the day.
+I build solutions, and dev teams and optimize their work (both, the team and solutions). 
 
 Most passionate about developer productivity, clean and performant solution architectures and web 3.
 
-During the day - I help companies understand whether they need fancy tech buzzwords in their life. When they do - I create adoption frameworks, put them in place and coach tech teams on the best ways to use them. Alternatively, I join existing teams to help them as an engineer.
+During the day - I help companies understand whether they need fancy tech buzzwords in their life. 
+When they do - I create adoption frameworks, put them in place and coach tech teams on the best ways 
+to use them. Alternatively, I join existing teams to help them as an engineer.
 
 Once my day job is over - that's when the real fun begins. I am one of the construction workers building web 3. 👷
 ```
