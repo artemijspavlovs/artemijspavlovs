@@ -6,16 +6,13 @@
 $ whoami
 > artpav.eth
 
-I'm a Software Engineer and Cloud SRE/Architect living in the rabbithole of web 3. 
+Hi there! Name's art. I'm an SRE and Cloud Architect during the day, I build solutions, and dev teams and optimize their work (both, the team and solutions). 
 
-My day job consists of helping companies understand whether they need Cloud and Microservices
-in their lives or not.
-Companies that do - I help them use it in the most optimal way possible and build custom tools 
-to increase their and their developer organizations' productivity.
-Ones that don't and want to - I help them with their digital transformation.
+Most passionate about developer productivity, clean and performant solution architectures and web 3.
 
-Once my day job is over - that's when the real fun begins. I am one of the construction workers
-building web 3.
+During the day - I help companies understand whether they need fancy tech buzzwords in their life. When they do - I create adoption frameworks, put them in place and coach tech teams on the best ways to use them. Alternatively, I join existing teams to help them as an engineer.
+
+Once my day job is over - that's when the real fun begins. I am one of the construction workers building web 3. 👷
 ```
 
 <p>
