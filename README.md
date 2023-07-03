@@ -18,6 +18,8 @@ Here's my list:
   <img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go"/>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust"/>
+  
+  <img src="https://img.shields.io/badge/Solid-black?style=for-the-badge&logo=solid"/>
   <img src="https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vue.js"/>
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript"/>
