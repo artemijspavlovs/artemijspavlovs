@@ -40,7 +40,7 @@ Here's my list:
   <img src="https://img.shields.io/badge/Hashicorp Consul-black?style=for-the-badge&logo=consul&color=black"/>
 </div>
 
-Not too long ago, I started my first open source project - a CI and Developer Experience tool config generator which creates a set of tool configs with sensible default so you can start your next project and have CI/CD in a matter of a couplt of clicks. I use it on daily basis, maybe you will too:
+Not too long ago, I started my first open source project - a CI and Developer Experience tool config generator which creates a set of tool configs with sensible default so you can start your next project and have CI/CD in a matter of a couple of clicks. I use it daily, and maybe you will too:
 
 <table>
   <thead align="center">
